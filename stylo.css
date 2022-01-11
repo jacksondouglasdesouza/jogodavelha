@@ -1,0 +1,39 @@
+table, td,  tr{
+    border: 1px solid black;
+    border-radius: 3px;
+    text-align: center;
+}
+td{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(8, 86, 160);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+body{
+    background-color: rgb(233, 233, 233,10);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+div{
+    font-size: x-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    padding: 2px;
+    margin: 2px;
+}
+
+button{
+    margin: 3px;
+    padding: 3px;
+    background: rgb(8, 86, 160);
+    color: white;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: solid 1px black;
+    border-radius: 5px;
+}
